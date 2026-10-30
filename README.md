@@ -9,6 +9,9 @@ Software engineer in Houston, Texas. I'm interested in Java, AI, Kubernetes, and
 
 ## Writing
 
+[**Using AI to Support Safer Maintenance and Turnarounds**](https://nikhilsunku.github.io/industrial-ai-blog/ai-process-safety/)  
+Equipment identification, permit preparation, sensor data, and turnaround planning, with AI supporting human judgment.
+
 [**Industrial reliability and efficiency with AI, GPUs, and Kubernetes**](https://nikhilsunku.github.io/industrial-ai-blog/)  
 A look at monitoring across upstream, midstream, downstream, and end use.
 
