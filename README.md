@@ -14,5 +14,3 @@ Equipment identification, permit preparation, sensor data, and turnaround planni
 
 [**Industrial reliability and efficiency with AI, GPUs, and Kubernetes**](https://nikhilsunku.github.io/industrial-ai-blog/)  
 A look at monitoring across upstream, midstream, downstream, and end use.
-
-[Browse all writing](https://github.com/nikhilsunku/nikhilsunku/tree/main/blog)
