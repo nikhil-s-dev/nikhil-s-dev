@@ -9,7 +9,7 @@ Software engineer in Houston, Texas. I'm interested in Java, AI, Kubernetes, and
 
 ## Writing
 
-[**Industrial reliability and efficiency with AI, GPUs, and Kubernetes**](https://github.com/nikhilsunku/nikhilsunku/blob/main/blog/industrial-ai-gpu-kubernetes.md)  
+[**Industrial reliability and efficiency with AI, GPUs, and Kubernetes**](https://nikhilsunku.github.io/nikhilsunku/)  
 A look at monitoring across upstream, midstream, downstream, and end use.
 
 [Browse all writing](https://github.com/nikhilsunku/nikhilsunku/tree/main/blog)
