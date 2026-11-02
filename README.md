@@ -1,6 +1,6 @@
 # Nikhil S
 
-I'm a software engineer based in Houston, Texas, focused on Java and AI/ML. I build projects in retrieval-augmented generation (RAG), LLM evaluation, and performance engineering, with an interest in Kubernetes and GPU computing.
+I'm a software engineer based in Houston, Texas, focused on Java, AI/ML, and GPU computing. My projects and interests include large language models (LLMs), retrieval-augmented generation (RAG), model evaluation, and efficient fine-tuning with LoRA and QLoRA. I enjoy building Java tools for LLM testing and performance measurement, and exploring GPU model serving and Kubernetes for AI applications.
 
 ## Projects
 
