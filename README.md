@@ -1,6 +1,6 @@
 # Nikhil S
 
-Software engineer in Houston, Texas. I'm interested in Java, AI, Kubernetes, and GPU computing, and how software and infrastructure support reliable applications.
+I'm a software engineer based in Houston, Texas, focused on Java and AI/ML. I build projects in retrieval-augmented generation (RAG), LLM evaluation, and performance engineering, with an interest in Kubernetes and GPU computing.
 
 ## Projects
 
