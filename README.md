@@ -10,9 +10,9 @@ I'm a software engineer focused on Java, AI/ML, and GPU computing. My projects a
 
 ## Experiment plans and research interests
 
-These are ideas and planned investigations; results and implementations will be linked when available.
+The LoRA pilot includes measured results; the remaining items are planned investigations.
 
-- **LoRA vs QLoRA:** compare GPU memory, training time, and held-out task quality using a controlled setup.
+- **[LoRA vs QLoRA T4 pilot](https://github.com/nikhil-s-dev/nikhil-s-dev.github.io/tree/main/experiments/lora-qlora):** measured training time, peak PyTorch GPU memory, and held-out language-model loss for a small single-seed experiment.
 - **Production RAG and retrieval evaluation:** document ingestion, hybrid retrieval, reranking, citations, and evaluation using `rag-regress`.
 - **GPU inference on Kubernetes:** investigate vLLM/Triton serving, tail latency, reliability, GPU utilization, and cost per token with `llm-loadgate`.
 - **Industrial AI and process safety:** explore AI-assisted maintenance and human-reviewed decision support.
